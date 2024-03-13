@@ -1,4 +1,6 @@
 # Movie Recommendation System
+![Dashboard Screenshot](https://github.com/sagbhandari98/Movie-Recommendaton-System/blob/master/movie-recommendation.png)
+The screenshot above illustrates the user interface of the movie recommendation system created with the Streamlit application.
 
 ## Overview
 This project is an end-to-end implementation of a movie recommendation system using machine learning. It encompasses data preprocessing, model building, and website deployment using Streamlit.
@@ -29,6 +31,5 @@ This project is an end-to-end implementation of a movie recommendation system us
 - Enhance the website UI/UX for a more intuitive user experience.
 - Incorporate user feedback mechanisms to improve recommendation accuracy.
 
-  ![Dashboard Screenshot](https://github.com/sagbhandari98/Movie-Recommendaton-System/blob/master/movie-recommendation.png)
-  The screenshot above illustrates the user interface of the movie recommendation system created with the Streamlit application.
+  
 
