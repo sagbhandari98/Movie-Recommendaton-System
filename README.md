@@ -27,7 +27,8 @@ This project is an end-to-end implementation of a movie recommendation system us
 
 - Implement advanced recommendation algorithms.
 - Enhance the website UI/UX for a more intuitive user experience.
-
-  ![Dashboard Screenshot](https://github.com/sagbhandari98/Movie-Recommendaton-System/blob/master/movie-recommendation.png)https://github.com/sagbhandari98/Movie-Recommendaton-System/blob/master/movie-recommendation.png)
-  The screenshot above illustrates the user interface of the movie recommendation system created with the Streamlit application.
 - Incorporate user feedback mechanisms to improve recommendation accuracy.
+
+  ![Dashboard Screenshot]
+  The screenshot above illustrates the user interface of the movie recommendation system created with the Streamlit application.
+
